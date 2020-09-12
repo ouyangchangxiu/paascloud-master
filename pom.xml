@@ -428,11 +428,7 @@
         <artifactId>feign-form-spring</artifactId>
         <version>${feign.form.spring.version}</version>
       </dependency>
-      <dependency>
-        <groupId>org.springframework</groupId>
-        <artifactId>spring-tx</artifactId>
-        <version>${spring.version}</version>
-      </dependency>
+      
       <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
       <dependency>
         <groupId>com.alibaba</groupId>
